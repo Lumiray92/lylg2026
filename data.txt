@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 在lylg2026中修改data.txt
+=======
+在test中修改data.txt
+>>>>>>> test
